@@ -1,0 +1,18 @@
+{
+  "name": "hello-world-server",
+  "version": "1.0.0",
+  "description": "graphql by example - hello world server",
+  "private": true,
+  "type": "module",
+  "keywords": [
+    "graphql",
+    "example",
+    "hello world server"
+  ],
+  "author": "Berenguer Pou",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.10.0",
+    "graphql": "^16.8.1"
+  }
+}
